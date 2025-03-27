@@ -1,0 +1,20 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.web.json",
+  "exclude": ["node_modules", "dist", "build"],
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+    },
+    "types": ["element-plus/global"],
+    "typeRoots": ["./node_modules/@types", "./src/types/"],
+    "preserveValueImports": false,
+    "importsNotUsedAsValues": "preserve",
+  },
+  "references": [
+    {
+      "path": "./tsconfig.config.json"
+    }
+  ]
+}

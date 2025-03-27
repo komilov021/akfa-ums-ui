@@ -1,0 +1,41 @@
+{
+  "shared": {
+    "view": "Ko'rish"
+  },
+  "request": {
+    "course_general": "Course edit - general",
+    "course_prerequisites": "Course edit - prerequisites",
+    "course_grading": "Course edit - Grading & Credits",
+    "course_course_leader": "Course edit - School and leader",
+    "course_grade_main": "Course edit - grade settings - main",
+    "course_grade_retake": "Course edit - grade settings - retake",
+    "course_grade_components": "Course edit - grade components",
+    "course_lessons": "Course edit - Lessons",
+    "assigned_semester1": "Curriculum edit - assigned course",
+    "assigned_semester1_remove": "Curriculum remove - assigned course",
+    "assigned_semester2": "Curriculum edit - assigned course",
+    "assigned_semester2_remove": "Curriculum remove - assigned course",
+    "assigned_student_progression": "Curriculum edit - student progression",
+    "assigned_grading_credits": "Assigned course edit - Main course grading & credits",
+    "assigned_retake_grading_credits": "Assigned course edit - Retake course grading & credits",
+    "assigned_grading_leader": "Assigned course edit - School and leader",
+    "assigned_lessons": "Assigned course edit - Lessons",
+    "grade_appeal_edit": "Appeal request",
+    "course_grading_remove": "Course grading remove",
+    "course_grading_edit": "Course grading edit",
+    "course_grading_insert": "Course grading create",
+    "assigned_course_component_edit": "Assigned Course Component Edit",
+    "pab_one_edit": "Pab one edit",
+    "pab_two_edit": "Pab two edit",
+    "pab_three_edit": "Pab three edit",
+    "pab_final_edit": "Pab final edit",
+    "rpl_insert":"Recognition of Prior Learning Insert",
+    "rpl_edit":"Recognition of Prior Learning Edit",
+    "rpl_remove":"Recognition of Prior Learning Remove",
+     "student_status": "Student status change",
+     "group_edit": "Group edit",
+     "student_from_group_remove":"Student deletion from group",
+    "unpublish_component_course_edit": " Unpublish grade of course",
+    "publish_component_course_edit": " Publish grade of course"
+  }
+}
